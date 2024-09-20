@@ -307,11 +307,13 @@
   "projects": [
     {
       "packageName": "admin-frontend",
-      "projectFolder": "packages/admin-frontend"
+      "projectFolder": "packages/admin-frontend",
+      "reviewCategory": "production"
     },
     {
       "packageName": "app-frontend",
-      "projectFolder": "packages/app-frontend"
+      "projectFolder": "packages/app-frontend",
+      "reviewCategory": "production"
     }
     // {
     //   /**
